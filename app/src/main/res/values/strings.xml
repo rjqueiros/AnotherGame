@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AnotherGame</string>
+    <string name="txtStory1">"hp:" + playerHP + "\nweapon: " + playerWPN</string>
+
 </resources>
